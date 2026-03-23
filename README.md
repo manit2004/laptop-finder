@@ -1,6 +1,6 @@
 # Laptop Finder
 
-Welcome to **Laptop Finder**, a webapp chatbot designed to provide laptop recommendations based on your budget and requirements. You can access the webapp [here](https://gadget-finder.streamlit.app/).
+Welcome to **Laptop Finder**, a webapp chatbot designed to provide laptop recommendations based on your budget and requirements. 
 
 ## Features
 
